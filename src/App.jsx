@@ -21,7 +21,7 @@ function App() {
       <Route path="/faq" Component={FaQPage}/>
       <Route path="/termscond" Component={TermCondPage}/>
     </Routes>
-    {/* <FooterComponent/> */}
+    <FooterComponent/>
   </div>
 }
 
