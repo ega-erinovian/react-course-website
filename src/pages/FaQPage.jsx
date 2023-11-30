@@ -1,6 +1,10 @@
+import FaQComponent from "../components/FaQComponent"
+
 const FaQPage = () => {
   return (
-    <div>FaQPage</div>
+    <div className="faq pt-5">
+      <FaQComponent/>
+    </div>
   )
 }
 
